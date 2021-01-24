@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/main/PBOIF210119043LatihanJDBCDAOMVC.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/model/TabelPelangganModel.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/error/PelangganException.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/model/PelangganModel.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/controller/PelangganController.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/entity/Pelanggan.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/view/PelangganView.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/view/Pelanggan1.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/database/KingBarbershopDatabase.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/service/PelangganDao.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/event/PelangganListener.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/view/MainViewPelanggan.java</file>
+            <file>file:/C:/Users/FERMI/Documents/NetBeansProjects/PBOIF2-10119043-latihanJDBCDAOMVC/src/edu/fermina/latihanmvcjdbc/impl/PelangganDaoImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
