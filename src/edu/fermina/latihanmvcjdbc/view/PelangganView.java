@@ -20,6 +20,15 @@ import javax.swing.JTextField;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
+/**
+ *
+ * @author FERMI
+ * NIM       : 10119043
+ * NAMA      : Fermi Naufal Akbar
+ * KELAS     : IF2
+ * DESKRIPSI : Program King Barbershop dengan java JDBC DAO MVC
+ */
+
 public class PelangganView extends javax.swing.JPanel implements PelangganListener, ListSelectionListener{
 
     private TabelPelangganModel tabelModel;

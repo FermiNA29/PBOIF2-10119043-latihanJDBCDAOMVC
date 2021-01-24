@@ -12,6 +12,10 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author FERMI
+ * NIM       : 10119043
+ * NAMA      : Fermi Naufal Akbar
+ * KELAS     : IF2
+ * DESKRIPSI : Program King Barbershop dengan java JDBC DAO MVC
  */
 public class PelangganController {
     
